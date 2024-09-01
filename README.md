@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sami561&label=Profile%20views&color=0e75b6&style=flat" alt="sami561" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://sami-ayachi-portfolio.vercel.app/](https://sami-ayachi-portfolio.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://sami-ayachi-portfolio.vercel.app/](sami ayachi)
 
 - 📫 How to reach me **semiayachi.contact@gmail.com**
 
