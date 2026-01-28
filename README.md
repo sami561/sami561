@@ -4,9 +4,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sami561&label=Profile%20views&color=0e75b6&style=flat" alt="sami561" /> </p>
 
 
-- 📫 How to reach me **semiayachi.contact@gmail.com**
+- 📫 How to reach me **sami.ayachi.dev@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Egik-vTOVytQMn2ixEm9hQgUEDLvHMbK/view?usp=sharing](https://drive.google.com/file/d/1Egik-vTOVytQMn2ixEm9hQgUEDLvHMbK/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
